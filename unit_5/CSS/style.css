@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet);
+@import url(https://fonts.googleapis.com/css?family=Cormorant" rel="stylesheet);
+
+body {
+	background: #f4d7ed;
+}
+
+nav {
+	border: 3px solid #12056E;
+	float: center;
+	margin: 10px auto 10px auto;
+	background-color: #E8C66A;
+}
+
+header {
+	background-color: #FFED74
+}
+
+li {
+	display: inline;
+	margin-right: 10px;
+	float: center;
+	text-align: center;
+}
+
+img.center {
+	width: 75px;
+	height: 75px;
+	float: center;
+	padding: 0 9px 0 9px;
+}
+
+img.hero {
+width: 1600px;
+height: 500px;
+}
+
+#about {
+	width: 421px;
+	height: 631px;
+	display: inline;
+}
+
+aside {
+width: 421px;
+height: 631px;
+float: left;
+padding: 15px
+background-color: #FFC675;
+}
+
+article.text {
+	width: 850px;
+	height: 631px;
+	float: right;
+	padding: 15px;
+	background-color: #E89C6C;
+}
+
+#blog {
+	display: inline;
+}
+
+img.two {
+	height: 601px;
+	width: 602px;
+	float: left;
+}
+
+img.five {
+	height: 601px;
+	width: 602px;
+	float: right;
+}
+
+footer {
+	text-align: center;
+	display: auto;
+	position: relative;
+	top: 100px;
+	background-color: #FF957E;
+}
